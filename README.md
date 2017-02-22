@@ -5,3 +5,4 @@ this is a test from the feature brance, after commiting this I should merge this
 this is a commit in the release branch
 this is a commit from Feature-fakefeature2 branch
 this is another commit from Feature-fakefeature2 branch
+this is a 3rd commit from Feature-fakefeature2 branch
