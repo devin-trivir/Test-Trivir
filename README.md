@@ -4,4 +4,4 @@ this is from the bug fix branch, after I commit this; I will merge directly into
 this is a test from the feature brance, after commiting this I should merge this branch into the Develop branch and then delete this branch.
 this is a commit in the release branch
 this is a commit from Feature-fakefeature2 branch
-
+this is another commit from Feature-fakefeature2 branch
